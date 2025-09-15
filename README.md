@@ -26,7 +26,6 @@ Conta com uma interface intuitiva, animações suaves ✨ e design adaptável �
 ✅ **Seção Hero** → Introdução impactante sobre mim  
 📂 **Seção de Projetos** → Destaque para meus principais trabalhos  
 📱 **Design Responsivo** → Funciona em qualquer dispositivo  
-🌗 **Modo Claro/Escuro** → Alternância de tema para melhor visualização  
 🎬 **Animações Fluidas** → Experiência interativa com Framer Motion
 
 ---
