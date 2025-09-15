@@ -1,46 +1,46 @@
-# Meu Portfólio Pessoal
+# 🌐 Meu Portfólio Pessoal
 
-Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para exibir meus trabalhos, habilidades e experiência como desenvolvedor web.
+Bem-vindo ao repositório do meu **portfólio pessoal**! 🚀  
+Aqui você encontra meus trabalhos, habilidades e experiências como **desenvolvedor web**.
 
-## Sobre o Projeto
+---
 
-Este portfólio é uma aplicação web moderna e responsiva, construída com foco em performance e experiência do usuário. Ele apresenta uma interface intuitiva, animações suaves e um design adaptável, garantindo uma ótima visualização em diferentes dispositivos.
+## 📖 Sobre o Projeto
 
-## Tecnologias Utilizadas
+Este portfólio é uma aplicação **moderna e responsiva**, construída com foco em **performance** ⚡ e **experiência do usuário** 🎨.  
+Conta com uma interface intuitiva, animações suaves ✨ e design adaptável 📱💻.
 
-O projeto foi construído utilizando um conjunto de tecnologias e bibliotecas modernas:
+---
 
--   **React.js**: Biblioteca JavaScript para construção de interfaces de usuário.
--   **Vite**: Ferramenta de build rápida para desenvolvimento front-end.
--   **Chakra UI**: Biblioteca de componentes React simples, modular e acessível.
--   **Tailwind CSS**: Framework CSS utilitário para estilização rápida e customizável.
--   **Framer Motion**: Biblioteca para animações declarativas em React.
--   **React Icons**: Coleção popular de ícones para React.
--   **Next.js Themes**: Para gerenciamento de temas (claro/escuro).
--   **Sonner**: Para notificações toast elegantes.
--   **Lucide React**: Biblioteca de ícones.
--   **Vaul**: Componente de drawer para React.
--   **ESLint**: Para manter a qualidade e consistência do código.
+## 🛠️ Tecnologias Utilizadas
 
-## Funcionalidades
+- ⚛️ **React.js** → Interfaces dinâmicas e componentizadas  
+- ⚡ **Vite** → Build rápido e eficiente  
+- 🎨 **Chakra UI** → Componentes acessíveis e prontos para uso  
+- 🎯 **Tailwind CSS** → Estilização rápida e flexível
 
--   **Seção Hero**: Uma introdução impactante sobre mim.
--   **Seção de Projetos**: Destaque para meus principais projetos com descrições e links.
--   **Design Responsivo**: Otimizado para desktop, tablets e dispositivos móveis.
--   **Modo Claro/Escuro**: Alternância de tema para melhor experiência visual.
--   **Animações Fluidas**: Transições e interações animadas com Framer Motion.
+---
 
-## Como Rodar Localmente
+## ✨ Funcionalidades
+
+✅ **Seção Hero** → Introdução impactante sobre mim  
+📂 **Seção de Projetos** → Destaque para meus principais trabalhos  
+📱 **Design Responsivo** → Funciona em qualquer dispositivo  
+🎬 **Animações Fluidas** → Experiência interativa com Framer Motion
+
+---
+
+## ⚙️ Como Rodar Localmente
 
 Siga estas instruções para configurar e executar o projeto em sua máquina local para fins de desenvolvimento e teste.
 
-### Pré-requisitos
+### 📌 Pré-requisitos
 
 Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina.
 
 -   [Node.js](https://nodejs.org/en/) (versão LTS recomendada)
 
-### Instalação
+### 📥 Instalação
 
 1.  **Clone o repositório:**
 
@@ -110,15 +110,3 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina.
 ├── vite.config.js          # Configuração do Vite
 └── README.md               # Este arquivo
 ```
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para me encontrar em:
-
--   **GitHub**: [Seu Usuário do GitHub](https://github.com/seu-usuario)
--   **LinkedIn**: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil)
--   **Email**: seu.email@example.com
